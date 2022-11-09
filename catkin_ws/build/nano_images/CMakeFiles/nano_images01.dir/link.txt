@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/nano_images01.dir/src/detection_server.cpp.o  -o /home/nvidia/catkin_ws/devel/lib/nano_images/nano_images01 
